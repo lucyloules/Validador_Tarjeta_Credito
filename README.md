@@ -21,7 +21,7 @@
 ##### 18. Cerramos la función
 
 ## Diagrama de Flujo
-![Flowchat isValidCard](http://dummyimage.com/150 "De 150 x 150 píxeles")
+![Flowchat isValidCard](https://github.com/lucyloules/Validador_Tarjeta_Credito/blob/master/Validar_tarjetaCredito%20-%20Page%201.jpeg?raw=true/)
 
 
 ###### *Autor: Lucia Lagos*
