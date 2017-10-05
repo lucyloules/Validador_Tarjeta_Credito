@@ -21,7 +21,7 @@
 ##### 18. Cerramos la función
 
 ## Diagrama de Flujo
-  http:
+![Flowchat isValidCard](http://dummyimage.com/150 "De 150 x 150 píxeles")
 
 
 ###### *Autor: Lucia Lagos*
